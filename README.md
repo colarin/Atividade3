@@ -14,7 +14,7 @@ Aqui está listada a atividade desenvolvida ao longo da disciplina. Cada link le
 
 | Atividade | Descrição | Link |
 |-----------|-----------|------|
-| Atividade 01 | Estrutura básica de uma página em HTML | [Acessar site](https://colarin.github.io/Atividade1/) |
+| Atividade 03 | Estrutura básica de uma página em HTML | [Acessar site](https://colarin.github.io/Atividade3/) |
 ---
 
 ## 🚀 Tecnologias utilizadas  
